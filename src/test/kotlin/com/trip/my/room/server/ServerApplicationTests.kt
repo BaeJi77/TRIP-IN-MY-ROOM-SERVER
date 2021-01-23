@@ -10,4 +10,8 @@ class ServerApplicationTests {
 	fun contextLoads() {
 	}
 
+	@Test
+	fun test1() {
+
+	}
 }
