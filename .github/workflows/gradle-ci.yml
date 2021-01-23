@@ -5,8 +5,11 @@ name: Kotlin CI with Gradle
 
 on:
   pull_request:
+<<<<<<< refs/remotes/upstream/main
     branches: 
       - main
+=======
+>>>>>>> Create gradle-ci.yml
     tags-ignore: 
       - WIP
 
